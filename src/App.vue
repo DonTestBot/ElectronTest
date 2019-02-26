@@ -2,7 +2,7 @@
   <v-app>
     <v-toolbar app>
       <v-toolbar-title class="headline text-uppercase">
-        <span>DIO MUDA MUDA</span>
+        <span>KELF NICK</span>
         <span class="font-weight-light">WRYYYYYYY!</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
